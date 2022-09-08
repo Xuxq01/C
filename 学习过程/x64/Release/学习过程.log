@@ -1,0 +1,27 @@
+﻿  学习.c
+C:\Users\11240\Desktop\c\学习过程\学习.c(1108,49): error C2059: 语法错误:“(”
+C:\Users\11240\Desktop\c\学习过程\学习.c(1108,50): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+C:\Users\11240\Desktop\c\学习过程\学习.c(1108,50): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+C:\Users\11240\Desktop\c\学习过程\学习.c(1108,54): error C2059: 语法错误:“)”
+C:\Users\11240\Desktop\c\学习过程\学习.c(1108,75): error C2059: 语法错误:“)”
+C:\Users\11240\Desktop\c\学习过程\学习.c(1111,21): error C2065: “sz”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1114,22): error C2065: “sz”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1116,24): error C2065: “base”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1116,24): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+C:\Users\11240\Desktop\c\学习过程\学习.c(1116,35): error C2065: “width”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1116,49): error C2065: “base”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1116,49): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+C:\Users\11240\Desktop\c\学习过程\学习.c(1116,57): error C2065: “width”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1116,57): warning C4022: “cmp”: 指针与实参 2 不匹配
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,26): error C2065: “base”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,26): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,37): error C2065: “width”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,51): error C2065: “base”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,51): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,58): error C2065: “width”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,65): error C2065: “width”: 未声明的标识符
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,60): warning C4020: “cmp”: 实参太多
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,66): warning C4133: “函数”: 从“int *”到“char *”的类型不兼容
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,66): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\11240\Desktop\c\学习过程\学习.c(1118,9): error C2198: “Swap”: 用于调用的参数太少
+C:\Users\11240\Desktop\c\学习过程\学习.c(1129,13): warning C4013: “bubble_sort”未定义；假设外部返回 int
